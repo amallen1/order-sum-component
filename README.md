@@ -1,7 +1,8 @@
 # Frontend Mentor - Order summary card solution
 
-This is my solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Design preview for the Order Summary Component coding challenge](./design/desktop-preview.jpg)
 
+This is my solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -15,8 +16,6 @@ This is my solution to the [Order summary card challenge on Frontend Mentor](htt
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -29,15 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 ![](./orderSumDesktop.png)
 ![](./orderSumMobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/amallen1/order-sum-component)
-- Live Site URL: [Add live site URL here](https://flamboyant-boyd-21a3e8.netlify.app/)
+- Solution URL: [(https://github.com/amallen1/order-sum-component)]
+- Live Site URL: [(https://flamboyant-boyd-21a3e8.netlify.app/)]
 
 ## My process
 
@@ -64,4 +62,4 @@ This project was quite easy as I've become more experienced with HTML, and CSS. 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/amallen1)
+- Frontend Mentor - [@amallen1](https://www.frontendmentor.io/profile/amallen1)
