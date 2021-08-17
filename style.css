@@ -95,6 +95,10 @@ body {
   margin-left: auto;
 }
 
+.card-info .plan .change-btn:hover {
+  color: #1d1386;
+}
+
 .card-info .payment {
   background-color: #3829e0;
   color: #fff;
@@ -112,10 +116,18 @@ body {
   cursor: pointer;
 }
 
+.card-info .payment:hover {
+  background-color: #1d1386;
+}
+
 .card-info .cancel-btn {
   text-decoration: none;
   color: #7280a7;
   font-weight: 700;
+}
+
+.card-info .cancel-btn:hover {
+  color: #1d1386;
 }
 
 @media (min-width: 700px) {
